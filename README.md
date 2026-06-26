@@ -1,4 +1,4 @@
-#🚀 Build with Data
+#⚡ Build with Data
 
 <div align="center">
 
@@ -26,13 +26,15 @@ A curated collection of real-world Data Engineering projects demonstrating moder
 
 # 📖 About
 
-**Build with Data** is a curated collection of practical Data Engineering projects built using modern cloud platforms and open-source technologies.
+## 📖 About
 
-Each project demonstrates real-world data engineering concepts such as **ETL/ELT pipelines**, **Lakehouse Architecture**, **Medallion Architecture**, **Delta Lake**, **Apache Spark**, **Microsoft Fabric**, **Azure Data Factory**, and **Databricks**.
+**⚡Build with Data** is a collection of practical Data Engineering projects demonstrating modern data platforms, ETL/ELT pipelines, Lakehouse Architecture, and analytics engineering using Azure, Databricks, Microsoft Fabric, PySpark, and SQL.
 
-Every project lives in its own repository with complete source code, architecture diagrams, implementation details, and documentation.
 
-Whether you're learning Data Engineering or looking for implementation references, this repository provides practical examples inspired by enterprise data platforms.
+---
+# 🎯 Topics
+
+`Azure` • `Databricks` • `Microsoft Fabric` • `Apache Spark` • `PySpark` • `SQL` • `Delta Lake` • `Unity Catalog` • `Lakehouse` • `ETL` • `ELT` • `Data Engineering` • `Data Warehousing` • `Analytics Engineering`
 
 ---
 
@@ -61,11 +63,7 @@ Whether you're learning Data Engineering or looking for implementation reference
 | ✅ SQL Analytics | ✅ Data Governance |
 ---
 
-# 🎯 Topics
 
-`Azure` • `Databricks` • `Microsoft Fabric` • `Apache Spark` • `PySpark` • `SQL` • `Delta Lake` • `Unity Catalog` • `Lakehouse` • `ETL` • `ELT` • `Data Engineering` • `Data Warehousing` • `Analytics Engineering`
-
----
 
 # 🤝 Contributions
 
