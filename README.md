@@ -48,49 +48,6 @@ Whether you're learning Data Engineering or looking for implementation reference
 
 ---
 
-# 🛠️ Technology Stack
-
-### ☁️ Cloud Platforms
-
-* Microsoft Azure
-* Microsoft Fabric
-* Databricks
-
-### ⚙️ Data Engineering
-
-* Azure Data Factory
-* Azure Databricks
-* Fabric Data Factory
-* OneLake
-* Lakehouse
-* Delta Lake
-* Unity Catalog
-* Azure Synapse Analytics
-* Azure Data Lake Storage Gen2
-
-### 💻 Programming
-
-* Python
-* PySpark
-* SQL
-* Spark SQL
-
-### 🏗️ Architecture & Concepts
-
-* Medallion Architecture
-* Lakehouse Architecture
-* ETL / ELT Pipelines
-* Data Warehousing
-* Data Modeling
-* Incremental Data Loading
-* Change Data Capture (CDC)
-* Slowly Changing Dimensions (SCD Type 1 & Type 2)
-* Data Quality Validation
-* Performance Optimization
-* Data Governance
-
----
-
 # 📚 What You'll Learn
 
 These projects cover practical implementations of:
