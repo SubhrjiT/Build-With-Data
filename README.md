@@ -49,23 +49,16 @@ Whether you're learning Data Engineering or looking for implementation reference
 
 # 📚 What You'll Learn
 
-These projects cover practical implementations of:
-
-* Enterprise ETL & ELT Pipelines
-* Databricks Lakehouse
-* Microsoft Fabric
-* Azure Data Engineering
-* Delta Lake
-* Apache Spark
-* PySpark Transformations
-* SQL Analytics
-* Data Warehousing
-* Medallion Architecture
-* Incremental Loading
-* Data Validation
-* Performance Optimization
-* Production Data Engineering Practices
-
+| | |
+|---|---|
+| ✅ Enterprise ETL & ELT Pipelines | ✅ Data Warehousing |
+| ✅ Databricks Lakehouse | ✅ Medallion Architecture |
+| ✅ Microsoft Fabric | ✅ Incremental Loading |
+| ✅ Azure Data Engineering | ✅ Data Validation |
+| ✅ Delta Lake | ✅ Performance Optimization |
+| ✅ Apache Spark | ✅ Production Data Engineering Practices |
+| ✅ PySpark Transformations | ✅ Analytics Engineering |
+| ✅ SQL Analytics | ✅ Data Governance |
 ---
 
 # 🎯 Topics
