@@ -24,8 +24,6 @@ A curated collection of real-world Data Engineering projects demonstrating moder
 
 ---
 
-# 📖 About
-
 ## 📖 About
 
 **⚡Build with Data** is a collection of practical Data Engineering projects demonstrating modern data platforms, ETL/ELT pipelines, Lakehouse Architecture, and analytics engineering using Azure, Databricks, Microsoft Fabric, PySpark, and SQL.
