@@ -1,4 +1,4 @@
-#⚡ Build with Data
+⚡ Build with Data
 
 <div align="center">
 
