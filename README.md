@@ -8,7 +8,6 @@ A curated collection of real-world Data Engineering projects demonstrating moder
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft-Fabric-742774?style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FEAA2D?style=for-the-badge\&logo=apachespark\&logoColor=black)
 ![PySpark](https://img.shields.io/badge/PySpark-FEAA2D?style=for-the-badge)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A66C2?style=for-the-badge)
